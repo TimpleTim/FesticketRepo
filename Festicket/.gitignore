@@ -1,0 +1,10 @@
+*.class
+*.classpath
+*.project
+*.html
+*.xml
+*.css
+*.js
+*.png
+*.gif
+*.properties
